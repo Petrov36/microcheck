@@ -27,3 +27,4 @@ Notes and usage details for microcheck.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
